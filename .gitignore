@@ -1,5 +1,8 @@
 # Node Modules folder
 node_modules/
 
+# Compiled files
+dist/
+
 # Environment variables/Secrets
 # .env # HIDE THIS FILE FROM GIT!!!
