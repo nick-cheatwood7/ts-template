@@ -1,5 +1,2 @@
-import dotenv from "dotenv-safe";
-
-dotenv.config({ path: "./.env", allowEmptyValues: false });
-
+import "dotenv-safe/config";
 console.log("Hello from Nodejs!");
